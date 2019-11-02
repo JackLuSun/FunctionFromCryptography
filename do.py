@@ -4,7 +4,7 @@ Created on Sat Aug 17 08:23:44 2019
 
 @author: jackl
 GOAL: 平时学习密码学过程中涉及到的一些功能在 python 上进行实现
-积累
+积累 
 """
 import math
 import random
